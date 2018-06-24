@@ -1,8 +1,8 @@
+using SimpleJwt.Areas.HelpPage.ModelDescriptions;
+using SimpleJwt.Areas.HelpPage.Models;
 using System;
 using System.Web.Http;
 using System.Web.Mvc;
-using SimpleJwt.Areas.HelpPage.ModelDescriptions;
-using SimpleJwt.Areas.HelpPage.Models;
 
 namespace SimpleJwt.Areas.HelpPage.Controllers
 {
